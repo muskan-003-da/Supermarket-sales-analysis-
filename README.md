@@ -7,3 +7,4 @@ This project analyzes supermarket sales across cities and identifies trends in c
 - Top-performing cities
 - Most sold product lines
 - Monthly revenue trend
+Supermarket Sales Analysis – [GitHub Link](https://github.com/muskan-003-da/supermarket-sales-analysis)
