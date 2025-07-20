@@ -1,2 +1,2 @@
 # Supermarket-sales-analysis-
-Python, excel Power BI 
+Python, pandas and matplotlib
